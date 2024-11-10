@@ -1,0 +1,3 @@
+[submodule "external/te"]
+	path = external/te
+	url = https://github.com/NVIDIA/TransformerEngine.git
